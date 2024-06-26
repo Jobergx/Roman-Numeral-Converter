@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    align-items: center;
+  
+  }
+  .btn {
+    width:250px;
+    height: 50px;
+  color: white;
+  background-color: blue;
+  font-size: 2rem;
+  border-radius: 5px;
+  }
+  
+  #output, #number {
+    width:250px;
+    height: 50px;
+    border: solid 2px black;
+    border-radius: 5px;
+  }
+  .box{
+    background-color: lightgray;
+    padding: 30px;
+    width: 260px;
+    border-radius: 5px;
+  }
